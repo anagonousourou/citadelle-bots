@@ -2,8 +2,8 @@
 Bots playing citadelle - school project
 
 ## Auteurs
-- ANAGONOU Patrick
-- BERTOLOTTO Loĩc
-- BOUZIDI Héba
-- POUEYTO Clément
+- [ANAGONOU Patrick](https://github.com/anagonousourou)
+- [BERTOLOTTO Loĩc](https://github.com/bertolottoloic)
+- [BOUZIDI Héba](https://github.com/hebabz)
+- [POUEYTO Clément](https://github.com/ClementPoueyto)
 
